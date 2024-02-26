@@ -147,14 +147,6 @@ def send_outlook_email(email, company_name, drivers: list, index):
         mail.Send()
 
 
-def get_email_body(company_name, drivers: list):
-    driver_list_str = get_driver_list_str(drivers)
-    body = f"Hello {company_name}, we have the following drivers listed as active:\n\n"
-    body += driver_list_str
-    body += "\nIf anyone is inactive, please let us know. Thank you!"
-    return body
-
-
 def save_excel_file(df):
     global excel_path
     global exit_requested

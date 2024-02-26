@@ -31,5 +31,14 @@ Figuring out how to programmatically modify email templates for automated email 
 
 These challenges provided valuable learning experiences, allowing me to expand my knowledge and skills in data scraping, API integration, and email automation.
 
+## Overall Impact and Sigificance
+The project saved thousands of dollars and countless hours by automating the email process and allowing employees to focus on more important tasks.
+
+## Installation and Usage
+This project was developed specifically for Transportation Compliance Service. Thus, attempting to clone the repository and execute the program is highly not recommended.
+
+## Contribution
+This project is not open to contribution from others, as it was developed solely to fit the needs of Transportation Compliance Service.
+
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.

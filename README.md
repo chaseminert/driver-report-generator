@@ -32,7 +32,7 @@ Figuring out how to programmatically modify email templates for automated email 
 These challenges provided valuable learning experiences, allowing me to expand my knowledge and skills in data scraping, API integration, and email automation.
 
 ## Overall Impact and Sigificance
-The project saved thousands of dollars and countless hours by automating the email process and allowing employees to focus on more important tasks.
+The implementation of this project has resulted in significant cost savings and productivity gains for the organization. By automating the email process, the project has not only saved thousands of dollars in labor costs but also freed up valuable employee time. With employees no longer burdened by manual email tasks, they can redirect their focus towards more strategic and value-added activities, ultimately enhancing overall efficiency and productivity within the organization.
 
 ## Installation and Usage
 This project was developed specifically for Transportation Compliance Service. Thus, attempting to clone the repository and execute the program is highly not recommended.
